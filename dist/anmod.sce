@@ -9,10 +9,8 @@
 // Universidade Federal de Mato Grosso, Brasil
 // <luispauloml[arroba]gmail.com>
 // 
-// Disponível em: <http://pastebin.com/TUmmg18U>
-//
 //====================================
-// Análise modal de sist/emas vibratórios com amortecimento histerético
+// Análise modal de sistemas vibratórios com amortecimento histerético
 // proprocional com estudo teório e experimental, usando o método da 
 // amplitude dos picos para para extração de parâmetros modais.
 // 
